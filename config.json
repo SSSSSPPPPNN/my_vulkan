@@ -1,0 +1,19 @@
+{
+    "window": {
+        "width": 800,
+        "height": 600,
+        "title": "My Vulkan Project",
+        "resizable": true
+    },
+    "vulkan": {
+        "validation_layers": true,
+        "vertical_sync": true,
+        "resize_debounce_ms": 200,
+        "object1": {
+            "rotation_speed": 0.5
+        },
+        "object2": {
+            "rotation_speed": 0.5
+        }
+    }
+}
